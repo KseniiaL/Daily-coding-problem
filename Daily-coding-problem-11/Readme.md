@@ -1,4 +1,4 @@
-#Daily-coding-problem-11
+# Daily-coding-problem-11
 
 My solution to the coding problem #11, taken from https://www.dailycodingproblem.com
 
